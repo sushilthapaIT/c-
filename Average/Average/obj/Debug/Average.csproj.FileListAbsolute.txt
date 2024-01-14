@@ -1,0 +1,7 @@
+C:\Users\Pav\source\repos\Average\Average\obj\Debug\Average.csproj.AssemblyReference.cache
+C:\Users\Pav\source\repos\Average\Average\obj\Debug\Average.csproj.CoreCompileInputs.cache
+C:\Users\Pav\source\repos\Average\Average\bin\Debug\Average.exe.config
+C:\Users\Pav\source\repos\Average\Average\bin\Debug\Average.exe
+C:\Users\Pav\source\repos\Average\Average\bin\Debug\Average.pdb
+C:\Users\Pav\source\repos\Average\Average\obj\Debug\Average.exe
+C:\Users\Pav\source\repos\Average\Average\obj\Debug\Average.pdb

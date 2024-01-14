@@ -1,0 +1,7 @@
+C:\Users\Pav\source\repos\add2num\add2num\obj\Debug\add2num.csproj.AssemblyReference.cache
+C:\Users\Pav\source\repos\add2num\add2num\obj\Debug\add2num.csproj.CoreCompileInputs.cache
+C:\Users\Pav\source\repos\add2num\add2num\bin\Debug\add2num.exe.config
+C:\Users\Pav\source\repos\add2num\add2num\bin\Debug\add2num.exe
+C:\Users\Pav\source\repos\add2num\add2num\bin\Debug\add2num.pdb
+C:\Users\Pav\source\repos\add2num\add2num\obj\Debug\add2num.exe
+C:\Users\Pav\source\repos\add2num\add2num\obj\Debug\add2num.pdb
