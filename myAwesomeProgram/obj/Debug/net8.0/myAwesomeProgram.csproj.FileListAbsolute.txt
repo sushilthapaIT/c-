@@ -1,0 +1,15 @@
+C:\Users\Pav\Documents\GitHub\c-\myAwesomeProgram\bin\Debug\net8.0\myAwesomeProgram.exe
+C:\Users\Pav\Documents\GitHub\c-\myAwesomeProgram\bin\Debug\net8.0\myAwesomeProgram.deps.json
+C:\Users\Pav\Documents\GitHub\c-\myAwesomeProgram\bin\Debug\net8.0\myAwesomeProgram.runtimeconfig.json
+C:\Users\Pav\Documents\GitHub\c-\myAwesomeProgram\bin\Debug\net8.0\myAwesomeProgram.dll
+C:\Users\Pav\Documents\GitHub\c-\myAwesomeProgram\bin\Debug\net8.0\myAwesomeProgram.pdb
+C:\Users\Pav\Documents\GitHub\c-\myAwesomeProgram\obj\Debug\net8.0\myAwesomeProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pav\Documents\GitHub\c-\myAwesomeProgram\obj\Debug\net8.0\myAwesomeProgram.AssemblyInfoInputs.cache
+C:\Users\Pav\Documents\GitHub\c-\myAwesomeProgram\obj\Debug\net8.0\myAwesomeProgram.AssemblyInfo.cs
+C:\Users\Pav\Documents\GitHub\c-\myAwesomeProgram\obj\Debug\net8.0\myAwesomeProgram.csproj.CoreCompileInputs.cache
+C:\Users\Pav\Documents\GitHub\c-\myAwesomeProgram\obj\Debug\net8.0\myAwesomeProgram.sourcelink.json
+C:\Users\Pav\Documents\GitHub\c-\myAwesomeProgram\obj\Debug\net8.0\myAwesomeProgram.dll
+C:\Users\Pav\Documents\GitHub\c-\myAwesomeProgram\obj\Debug\net8.0\refint\myAwesomeProgram.dll
+C:\Users\Pav\Documents\GitHub\c-\myAwesomeProgram\obj\Debug\net8.0\myAwesomeProgram.pdb
+C:\Users\Pav\Documents\GitHub\c-\myAwesomeProgram\obj\Debug\net8.0\myAwesomeProgram.genruntimeconfig.cache
+C:\Users\Pav\Documents\GitHub\c-\myAwesomeProgram\obj\Debug\net8.0\ref\myAwesomeProgram.dll

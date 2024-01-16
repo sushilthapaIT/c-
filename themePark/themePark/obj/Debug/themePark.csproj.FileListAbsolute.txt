@@ -1,0 +1,7 @@
+C:\Users\Pav\source\repos\themePark\themePark\bin\Debug\themePark.exe.config
+C:\Users\Pav\source\repos\themePark\themePark\bin\Debug\themePark.exe
+C:\Users\Pav\source\repos\themePark\themePark\bin\Debug\themePark.pdb
+C:\Users\Pav\source\repos\themePark\themePark\obj\Debug\themePark.csproj.AssemblyReference.cache
+C:\Users\Pav\source\repos\themePark\themePark\obj\Debug\themePark.csproj.CoreCompileInputs.cache
+C:\Users\Pav\source\repos\themePark\themePark\obj\Debug\themePark.exe
+C:\Users\Pav\source\repos\themePark\themePark\obj\Debug\themePark.pdb

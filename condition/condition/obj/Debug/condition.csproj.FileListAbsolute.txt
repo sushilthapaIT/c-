@@ -1,0 +1,7 @@
+C:\Users\Pav\source\repos\condition\condition\bin\Debug\condition.exe.config
+C:\Users\Pav\source\repos\condition\condition\bin\Debug\condition.exe
+C:\Users\Pav\source\repos\condition\condition\bin\Debug\condition.pdb
+C:\Users\Pav\source\repos\condition\condition\obj\Debug\condition.csproj.AssemblyReference.cache
+C:\Users\Pav\source\repos\condition\condition\obj\Debug\condition.csproj.CoreCompileInputs.cache
+C:\Users\Pav\source\repos\condition\condition\obj\Debug\condition.exe
+C:\Users\Pav\source\repos\condition\condition\obj\Debug\condition.pdb
