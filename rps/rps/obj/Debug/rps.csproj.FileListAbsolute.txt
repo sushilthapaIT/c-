@@ -1,0 +1,7 @@
+C:\Users\Pav\source\repos\rps\rps\obj\Debug\rps.csproj.AssemblyReference.cache
+C:\Users\Pav\source\repos\rps\rps\obj\Debug\rps.csproj.CoreCompileInputs.cache
+C:\Users\Pav\source\repos\rps\rps\bin\Debug\rps.exe.config
+C:\Users\Pav\source\repos\rps\rps\bin\Debug\rps.exe
+C:\Users\Pav\source\repos\rps\rps\bin\Debug\rps.pdb
+C:\Users\Pav\source\repos\rps\rps\obj\Debug\rps.exe
+C:\Users\Pav\source\repos\rps\rps\obj\Debug\rps.pdb

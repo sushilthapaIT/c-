@@ -1,0 +1,7 @@
+C:\Users\Pav\source\repos\Assignment\rocksci\rocksci\bin\Debug\rocksci.exe.config
+C:\Users\Pav\source\repos\Assignment\rocksci\rocksci\bin\Debug\rocksci.exe
+C:\Users\Pav\source\repos\Assignment\rocksci\rocksci\bin\Debug\rocksci.pdb
+C:\Users\Pav\source\repos\Assignment\rocksci\rocksci\obj\Debug\rocksci.csproj.AssemblyReference.cache
+C:\Users\Pav\source\repos\Assignment\rocksci\rocksci\obj\Debug\rocksci.csproj.CoreCompileInputs.cache
+C:\Users\Pav\source\repos\Assignment\rocksci\rocksci\obj\Debug\rocksci.exe
+C:\Users\Pav\source\repos\Assignment\rocksci\rocksci\obj\Debug\rocksci.pdb

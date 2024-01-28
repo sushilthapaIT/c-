@@ -1,0 +1,7 @@
+C:\Users\Pav\source\repos\q1\q1\bin\Debug\q1.exe.config
+C:\Users\Pav\source\repos\q1\q1\bin\Debug\q1.exe
+C:\Users\Pav\source\repos\q1\q1\bin\Debug\q1.pdb
+C:\Users\Pav\source\repos\q1\q1\obj\Debug\q1.csproj.AssemblyReference.cache
+C:\Users\Pav\source\repos\q1\q1\obj\Debug\q1.csproj.CoreCompileInputs.cache
+C:\Users\Pav\source\repos\q1\q1\obj\Debug\q1.exe
+C:\Users\Pav\source\repos\q1\q1\obj\Debug\q1.pdb
