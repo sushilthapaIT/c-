@@ -11,36 +11,57 @@ namespace Q6
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Largest number of vowels");
+            string fileName = @"C:\Users\Pav\Documents\GitHub\c-\words.txt";
 
-            //StreamReader reader;
-            //reader = new StreamReader("words.txt");
-
-            //while (reader.EndOfStream == false)
-            //{
-            //    string line = reader.ReadLine();
-
-            //    Console.WriteLine(line);
-            //}
-
-
-            //reader.Close();
-
-
-            // Store the path of the textfile in your system 
-            string file = @"C:\Users\Pav\source\repos\words.txt";
-
-            Console.WriteLine("Reading File using File.ReadAllText()");
-
-            // To read the entire file at once 
-            if (File.Exists(file))
+            try
             {
-                // Read all the content in one string 
-                // and display the string 
-                string str = File.ReadAllText(file);
-                Console.WriteLine(str);
+                // Read all lines from the file
+                string[] lines = File.ReadAllLines(fileName);
+
+                int maxVowels = 0;
+
+                // Iterate through each word in the file
+                foreach (string word in lines)
+                {
+                    int vowelsCount = CountVowels(word);
+
+                    // Update the maxVowels if the current word has more vowels
+                    if (vowelsCount > maxVowels)
+                    {
+                        maxVowels = vowelsCount;
+                    }
+                }
+
+                // Display the result
+                Console.WriteLine($"The largest number of vowels in any one word is: {maxVowels}");
             }
-            Console.WriteLine();
+            catch (FileNotFoundException)
+            {
+                Console.WriteLine($"Error: File '{fileName}' not found.");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"An error occurred: {ex.Message}");
+            }
+            Console.ReadLine();
+        }
+
+        static int CountVowels(string word)
+        {
+            int count = 0;
+            string vowels = "aeiouAEIOU";
+
+            // Count the vowels in the word
+            foreach (char c in word)
+            {
+                if (vowels.Contains(c))
+                {
+                    count++;
+                }
+            }
+
+            return count;
         }
     }
 }
+
